@@ -1,0 +1,35 @@
+_repo: The-Bolsheviki-and-World-Peace_40273
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40273-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Trotsky, Leon
+    aliases:
+    - Trotsky, Lev Davidovitch
+    - Троцкий, Лев Давидович
+    - Trotzky, Leon Davidovich
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '2030'
+    url: http://www.gutenberg.org/2009/agents/2030
+    wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
+description: ''
+gutenberg_issued: '2012-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40273'
+  lccn: '18007369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Communism -- Soviet Union'
+- !lcsh 'Socialism'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Europe -- Social conditions -- 20th century'
+title: The Bolsheviki and World Peace
+url: http://www.gutenberg.org/ebooks/40273
