@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2030
     wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40273#The-Bolsheviki-and-World-Peace
 gutenberg_issued: '2012-07-18'
 gutenberg_type: Text
 identifiers:
